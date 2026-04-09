@@ -18,6 +18,13 @@
 		{
 			"Name": "DaySequence",
 			"Enabled": true
+		},
+		{
+			"Name": "ChaosCachingUSD",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64"
+			]
 		}
 	]
 }
